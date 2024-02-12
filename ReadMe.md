@@ -8,7 +8,7 @@ to indicate the File Size
 and to start with an 'x' so it ends up near the end of alphabetical Lists.
 
 This is a Sub-Vault for large Files/Attachments of the [[../_public]] Vault.
-It should be checked out into the [[../xLarge|xLarge]] Subfolder. 
+It should be checked out into the [[../xLarge.public|xLarge.public]] Subfolder. 
 
 Storing large in the Repository keeps the [[../_public]] Repository small
 and allows for people to choose NOT to clone this.
@@ -105,24 +105,3 @@ isReadOnly
 created: Date (and Time) of Creation/Birth 
 demised: Date (and Time) of Destruction/Death/Dissolution 
 
-
-
-
-## Confidential Links & Embeds: 
-- [[../../_Standards/xLarge/ReadMe|ReadMe]] 
-- [[../../_public/xLarge/ReadMe.public|ReadMe.public]] 
-- [[../../-internal/xLarge/ReadMe.internal|ReadMe.internal]] 
-- [[../../_protect/xLarge/ReadMe.protect|ReadMe.protect]] 
-- [[../../_private/xLarge/ReadMe.private|ReadMe.private]] 
-- [[../../_personal/xLarge/ReadMe.personal|ReadMe.personal]] 
-- [[../../_secret/xLarge/ReadMe.secret|ReadMe.secret]] 
-
-
-## Confidential Links & Embeds: 
-- [[../..//_Standards/../xLarge/ReadMe|ReadMe]] 
-- [[../..//_public/../xLarge/ReadMe.public|ReadMe.public]] 
-- [[../..//_internal/../xLarge/ReadMe.internal|ReadMe.internal]] 
-- [[../..//_protect/../xLarge/ReadMe.protect|ReadMe.protect]] 
-- [[../..//_private/../xLarge/ReadMe.private|ReadMe.private]] 
-- [[../..//_personal/../xLarge/ReadMe.personal|ReadMe.personal]] 
-- [[../..//_secret/../xLarge/ReadMe.secret|ReadMe.secret]] 
