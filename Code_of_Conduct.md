@@ -133,3 +133,23 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_Standards/xLarge/Code_of_Conduct|Code_of_Conduct]] 
+- [[../../_public/xLarge/Code_of_Conduct.public|Code_of_Conduct.public]] 
+- [[../../-internal/xLarge/Code_of_Conduct.internal|Code_of_Conduct.internal]] 
+- [[../../_protect/xLarge/Code_of_Conduct.protect|Code_of_Conduct.protect]] 
+- [[../../_private/xLarge/Code_of_Conduct.private|Code_of_Conduct.private]] 
+- [[../../_personal/xLarge/Code_of_Conduct.personal|Code_of_Conduct.personal]] 
+- [[../../_secret/xLarge/Code_of_Conduct.secret|Code_of_Conduct.secret]] 
+
+
+## Confidential Links & Embeds: 
+- [[../..//_Standards/../xLarge/Code_of_Conduct|Code_of_Conduct]] 
+- [[../..//_public/../xLarge/Code_of_Conduct.public|Code_of_Conduct.public]] 
+- [[../..//_internal/../xLarge/Code_of_Conduct.internal|Code_of_Conduct.internal]] 
+- [[../..//_protect/../xLarge/Code_of_Conduct.protect|Code_of_Conduct.protect]] 
+- [[../..//_private/../xLarge/Code_of_Conduct.private|Code_of_Conduct.private]] 
+- [[../..//_personal/../xLarge/Code_of_Conduct.personal|Code_of_Conduct.personal]] 
+- [[../..//_secret/../xLarge/Code_of_Conduct.secret|Code_of_Conduct.secret]] 

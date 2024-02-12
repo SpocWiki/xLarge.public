@@ -109,3 +109,23 @@ Creative Commons is not a party to this License, and makes no warranty whatsoeve
 Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, Creative Commons does not authorize the use by either party of the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time. For the avoidance of doubt, this trademark restriction does not form part of the License.
 
 Creative Commons may be contacted at <http://creativecommons.org/>.
+
+
+## Confidential Links & Embeds: 
+- [[../../_Standards/xLarge/License|License]] 
+- [[../../_public/xLarge/License.public|License.public]] 
+- [[../../-internal/xLarge/License.internal|License.internal]] 
+- [[../../_protect/xLarge/License.protect|License.protect]] 
+- [[../../_private/xLarge/License.private|License.private]] 
+- [[../../_personal/xLarge/License.personal|License.personal]] 
+- [[../../_secret/xLarge/License.secret|License.secret]] 
+
+
+## Confidential Links & Embeds: 
+- [[../..//_Standards/../xLarge/License|License]] 
+- [[../..//_public/../xLarge/License.public|License.public]] 
+- [[../..//_internal/../xLarge/License.internal|License.internal]] 
+- [[../..//_protect/../xLarge/License.protect|License.protect]] 
+- [[../..//_private/../xLarge/License.private|License.private]] 
+- [[../..//_personal/../xLarge/License.personal|License.personal]] 
+- [[../..//_secret/../xLarge/License.secret|License.secret]] 

@@ -185,3 +185,23 @@ demisedTime: Date (and Time) of Destruction/Death/Dissolution
 createdPlace: Location of Creation/Birth, preferably in geo-coordinates (longitude, latitude)
 demisedPlace: Location of Destruction/Death/Dissolution 
 
+
+
+## Confidential Links & Embeds: 
+- [[../../_Standards/xLarge/Contributing|Contributing]] 
+- [[../../_public/xLarge/Contributing.public|Contributing.public]] 
+- [[../../-internal/xLarge/Contributing.internal|Contributing.internal]] 
+- [[../../_protect/xLarge/Contributing.protect|Contributing.protect]] 
+- [[../../_private/xLarge/Contributing.private|Contributing.private]] 
+- [[../../_personal/xLarge/Contributing.personal|Contributing.personal]] 
+- [[../../_secret/xLarge/Contributing.secret|Contributing.secret]] 
+
+
+## Confidential Links & Embeds: 
+- [[../..//_Standards/../xLarge/Contributing|Contributing]] 
+- [[../..//_public/../xLarge/Contributing.public|Contributing.public]] 
+- [[../..//_internal/../xLarge/Contributing.internal|Contributing.internal]] 
+- [[../..//_protect/../xLarge/Contributing.protect|Contributing.protect]] 
+- [[../..//_private/../xLarge/Contributing.private|Contributing.private]] 
+- [[../..//_personal/../xLarge/Contributing.personal|Contributing.personal]] 
+- [[../..//_secret/../xLarge/Contributing.secret|Contributing.secret]] 

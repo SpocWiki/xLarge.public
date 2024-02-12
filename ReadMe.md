@@ -1,18 +1,25 @@
 Folder/Wiki/Vault with shared, large, public Files/Attachments. 
 
-# How to include 
-This Repository can be cloned or referenced as a Submodule in other Wikis/Vaults.  
-Pull-Requests are very welcome, but read the Section about [[#How to contribute]] first! 
+# How to include this in your own vault:
+This Repository can be cloned or referenced as a Submodule in your Wikis/Vaults.  
+Pull-Requests are welcome, but read the Section about [[#How to contribute]] first!
+The [[License]] is chosen to be compatible with Wikipedia and Wikidata,
+so that Information can freely be exchanged with this Repository.
 
 ## Wiki-Modules 
-To limit the Size of this Repository, individual Sub-Repositories are singled out, which can be cloned and versioned independently. 
+To limit the Size of any Repository, individual Sub-Repositories are singled out,
+which can be cloned and versioned independently. 
+
+Whenever a Folder becomes too large, we will separate it into a new Repository,
+that can be checked out in place of the previous Folder. 
+This guarantees that any Links will still work after this Refactoring. 
 
 ### xLarge Module
 An important one is the 'xLarge' (eXtra large) Module, dedicated to store 'Attachments', i.e. large, binary Files.  When mounted directly in Obsidian, this Folder should be marked as the Destination for Attachments.
 The name was chosen deliberately to place it at the end of the Folder List
 
 ### GIT SubModules 
-SubModules proved to create friction and conflicts in a highly distributed System of Wiki-Repositories. 
+SubModules were seriously considered, but proved to create friction and conflicts in a highly distributed System of Wiki-Repositories. Additionally, there are no strict compatibility requirements needed as for e.g. Source Code. 
 
 SubModules offer the Benefit of including all required Modules optionally, 
 but they fix the Module's Version/Hash and therefore need to be updated regularly to keep up with the linked Content. 
@@ -23,6 +30,8 @@ Nonetheless, private Repositories may find it useful to include this Repository 
 
 
 # How to contribute
+
+See [[Contributing]]
 
 ## Licensing
 All downloads and uploads must comply to the [[License]] attached to this Repository.
@@ -84,3 +93,21 @@ demised: Date (and Time) of Destruction/Death/Dissolution
 
 
 
+## Confidential Links & Embeds: 
+- [[../../_Standards/xLarge/ReadMe|ReadMe]] 
+- [[../../_public/xLarge/ReadMe.public|ReadMe.public]] 
+- [[../../-internal/xLarge/ReadMe.internal|ReadMe.internal]] 
+- [[../../_protect/xLarge/ReadMe.protect|ReadMe.protect]] 
+- [[../../_private/xLarge/ReadMe.private|ReadMe.private]] 
+- [[../../_personal/xLarge/ReadMe.personal|ReadMe.personal]] 
+- [[../../_secret/xLarge/ReadMe.secret|ReadMe.secret]] 
+
+
+## Confidential Links & Embeds: 
+- [[../..//_Standards/../xLarge/ReadMe|ReadMe]] 
+- [[../..//_public/../xLarge/ReadMe.public|ReadMe.public]] 
+- [[../..//_internal/../xLarge/ReadMe.internal|ReadMe.internal]] 
+- [[../..//_protect/../xLarge/ReadMe.protect|ReadMe.protect]] 
+- [[../..//_private/../xLarge/ReadMe.private|ReadMe.private]] 
+- [[../..//_personal/../xLarge/ReadMe.personal|ReadMe.personal]] 
+- [[../..//_secret/../xLarge/ReadMe.secret|ReadMe.secret]] 
