@@ -1,4 +1,17 @@
+
+# [[../xLarge.public]]
+
 Folder/Wiki/Vault with shared, large, public Files/Attachments. 
+
+The Repository Name is deliberately chosen
+to indicate the File Size 
+and to start with an 'x' so it ends up near the end of alphabetical Lists.
+
+This is a Sub-Vault for large Files/Attachments of the [[../_public]] Vault.
+It should be checked out into the [[../xLarge|xLarge]] Subfolder. 
+
+Storing large in the Repository keeps the [[../_public]] Repository small
+and allows for people to choose NOT to clone this.
 
 # How to include this in your own vault:
 This Repository can be cloned or referenced as a Submodule in your Wikis/Vaults.  
@@ -14,11 +27,13 @@ Whenever a Folder becomes too large, we will separate it into a new Repository,
 that can be checked out in place of the previous Folder. 
 This guarantees that any Links will still work after this Refactoring. 
 
-### xLarge Module
-An important one is the 'xLarge' (eXtra large) Module, dedicated to store 'Attachments', i.e. large, binary Files.  When mounted directly in Obsidian, this Folder should be marked as the Destination for Attachments.
+### xLarge.public Module
+An important one is the 'xLarge.public' (eXtra large) Module, dedicated to store 'Attachments', i.e. large, binary Files.  
+When mounted directly in Obsidian, this Folder can be marked as the Destination for Attachments,
+but you may choose your own Folder for that to prevent accidentally pushing private Attachments.
 The name was chosen deliberately to place it at the end of the Folder List
 
-### GIT SubModules 
+### No GIT SubModules 
 SubModules were seriously considered, but proved to create friction and conflicts in a highly distributed System of Wiki-Repositories. Additionally, there are no strict compatibility requirements needed as for e.g. Source Code. 
 
 SubModules offer the Benefit of including all required Modules optionally, 
