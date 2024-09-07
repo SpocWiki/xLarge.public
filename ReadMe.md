@@ -7,10 +7,10 @@ The Repository Name is deliberately chosen
 to indicate the File Size 
 and to start with an 'x' so it ends up near the end of alphabetical Lists.
 
-This is a Sub-Vault for large Files/Attachments of the [[../_public]] Vault.
+This is a Sub-Vault for large Files/Attachments of the [[_public]] Vault.
 It should be checked out into the [[../xLarge.public|xLarge.public]] Subfolder. 
 
-Storing large in the Repository keeps the [[../_public]] Repository small
+Storing large in the Repository keeps the [[_public]] Repository small
 and allows for people to choose NOT to clone this.
 
 # How to include this in your own vault:
