@@ -1,5 +1,5 @@
 
-# [[../xLarge.public]]
+# [[../xLarge.public|xLarge.public]]
 
 Folder/Wiki/Vault with shared, large, public Files/Attachments. 
 
