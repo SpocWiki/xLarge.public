@@ -16,7 +16,7 @@ Invoke-SafePull $parent_directory
 
 Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
     $directory = $_.FullName
-    if (Test-Path "$directory/.git") {
+    if ((Test-Path "$directory/.git") -and -not (Test-ExcludedRepo $parent_directory $directory)) {
 		try {
 			Write-Host "Pulling repository in $directory"
 			Push-Location $directory
@@ -33,3 +33,8 @@ Get-ChildItem -Path $parent_directory -Recurse -Directory | ForEach-Object {
 }
 
 Set-Location -Path $parent_directory
+if ($script:SafePullFailures.Count -gt 0) {
+    Write-Host "Pull problems in $($script:SafePullFailures.Count) repositor(y/ies): $($script:SafePullFailures -join ', ')" -ForegroundColor Red
+    exit 1
+}
+exit 0
